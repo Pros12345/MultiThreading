@@ -1,6 +1,4 @@
-package DeadLock;
-
-public class DeadLockExample {
+public class DeadLockPreventExample {
 
 	public static void main(String[] args) {
 
